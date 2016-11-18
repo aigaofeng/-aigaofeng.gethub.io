@@ -1,0 +1,37 @@
+.footer{
+	width: 1000px;
+	height: 80px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+.footer .f-1 {
+	height: 30px;
+	width: 270px;
+	border: 1px solid red;
+	margin-left: 23px;
+	margin-top: 13px;
+	float:left;
+	font-size: 13px;
+	color: #838383;
+}
+.footer .f-2 {
+	height: 30px;
+	width: 355px;
+	border: 1px solid red;
+	margin-left: 90px;
+	margin-top: 13px;
+	font-size: 13px;
+	float:left;
+	color: #838383;
+}
+.footer .f-3{
+	height: 30px;
+	width: 150px;
+	border: 1px solid red;
+	margin-left: 90px;
+	margin-top: 13px;
+	font-size: 13px;
+	float:left;
+	color: #838383;
+}
+
